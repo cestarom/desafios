@@ -1,6 +1,6 @@
 <html>
 <body>
-    <center><h1>Imagem Flexível</h1></center>
+    <center><h1>Imagem Flexível (CRÉDITOS AO USER PERNALONGA22)</h1></center>
     <picture>
 <center>        <source media="(max-width:750px )" srcset="https://raw.githubusercontent.com/PernaLonga22/exercicosTESD/main/TESD%20atividades/ex007/imagens/paisagem-p.png" type="image/png">
         <source media="(max-width:1050px )" srcset="https://raw.githubusercontent.com/PernaLonga22/exercicosTESD/main/TESD%20atividades/ex007/imagens/paisagem-m.png" type="image/png">
