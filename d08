@@ -4,15 +4,14 @@
         body{background-color: white;}
     </style>
 <center> <h1> NÃO CONSEGUI LINKAR OUTRA PAGINA PELO BLOCO DE NOTAS!</h1></center>
-    <title>DESAFIO DA NAVEGAÇÃO NO SITE</title>
 </head>
 <body>
     <h1>Desafio da Navegação</h1>
-    <h2>PRINCIPAL.</h2>
+   <center> <h2>PRINCIPAL.</h2> </center>
     <p>
         <ul>
-            <li><a href="pagina02.html" style="color:rgb(61, 204, 61)">Acessar a segunda página(verde).</a></li>
-            <li><a href="pagina03.html" style="color:grey">Acessar a terceira página(rosa).</a></li>
+           <center> <h1><a href="pagina02.html" style="color:rgb(61, 204, 61)">Acessar a segunda página(verde).</a></li>
+            <br><a href="pagina03.html" style="color:grey">Acessar a terceira página(rosa).</a></h1></center></br>
         </ul>
     </p>
 </body>
