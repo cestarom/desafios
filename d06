@@ -1,7 +1,7 @@
 <html>
 <body>
     <h1>Tags em HTML</h1>
-    <p>Aqui vai algumas das tags em HTML (passe o mouse sobre os termos e veja qual suas respectivas tags)</p>
+    <p>Passe o mouse sobre os termos e veja qual suas respectivas TAGS</p>
         <ul>
             <li><abbr title="Use a tag &lt;p&gt;">Parágrafos</abbr> </li>
             <li><abbr title="Use a tag &lt;h1&gt;">Títulos</abbr></li>
