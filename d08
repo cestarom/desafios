@@ -10,8 +10,8 @@
    <center> <h2>PRINCIPAL.</h2> </center>
     <p>
         <ul>
-           <center> <h1><a href="pagina02.html" style="color:rgb(61, 204, 61)">Acessar a segunda página(verde).</a></li>
-            <br><a href="pagina03.html" style="color:grey">Acessar a terceira página(rosa).</a></h1></center></br>
+           <center> <h1><a href="pagina02.html" style="color:green">Acessar a segunda página(verde).</a></li>
+            <br><a href="pagina03.html" style="color:grey">Acessar a terceira página(cinza).</a></h1></center></br>
 <audio scr= "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type= audio/mpeg </audio>
         </ul>
     </p>
