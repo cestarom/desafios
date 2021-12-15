@@ -1,0 +1,17 @@
+<html>
+<body>
+    <h1>Tags em HTML</h1>
+    <p>Aqui vai algumas das tags em HTML (passe o mouse sobre os termos e veja qual suas respectivas tags)</p>
+        <ul>
+            <li><abbr title="Use a tag &lt;p&gt;">Parágrafos</abbr> </li>
+            <li><abbr title="Use a tag &lt;h1&gt;">Títulos</abbr></li>
+            <li><abbr title="Use a tag &lt;img&gt;">Imagens</abbr></li>
+            <li><abbr title="Use a tag &lt;abbr&gt;">Abreviações</abbr></li>
+            <li><abbr title="Use a tag &lt;code&gt;">Códigos-fonte</abbr></li>
+            <li><abbr title="Use a tag &lt;ol&gt;">Listas numeradas</abbr></li>
+            <li><abbr title="Use a tag &lt;ul&gt;">Listas não ordenadas</abbr></li>
+            <li><abbr title="Use a tag &lt;q&gt;">Citações</abbr></li>
+            <li><abbr title="Use a tag &lt;pre&gt;">Manter formatação original</abbr></li>
+        </ul>
+</body>
+</html>
